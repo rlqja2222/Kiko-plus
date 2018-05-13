@@ -2,7 +2,7 @@
 layout: post
 title: "Beauty Of Dynamic Programming - Knapsack"
 description: "ID : 알고리즘 정리"
-date: 2017-10-28
+date: 2018-04-25
 tags: [알고리즘, 알고리즘 정리]
 comments: true
 share: true

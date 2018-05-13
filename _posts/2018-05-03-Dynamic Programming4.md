@@ -2,7 +2,7 @@
 layout: post
 title: "Beauty Of Dynamic Programming - Edit Distance"
 description: "ID : 알고리즘 정리"
-date: 2017-10-31
+date: 2018-05-03
 tags: [알고리즘, 알고리즘 정리]
 comments: true
 share: true
